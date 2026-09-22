@@ -1,0 +1,2 @@
+# Aiparctice
+ai code
